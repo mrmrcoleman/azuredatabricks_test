@@ -46,7 +46,7 @@ CREATE TABLE diamonds
 -- COMMAND ----------
 
 -- MAGIC %md
--- MAGIC ## The next command manipulates the data and displays the results 
+-- MAGIC ## The next command manipulates the data and displays the results (Changed a comment)
 -- MAGIC 
 -- MAGIC Specifically, the command:
 -- MAGIC 1. Selects color and price columns, averages the price, and groups and orders by color.
